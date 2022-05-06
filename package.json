@@ -1,0 +1,24 @@
+{
+  "name": "mini-ureka",
+  "version": "1.0.0",
+  "description": "AS A small business owner\r I WANT to be able to write and save notes\r SO THAT I can organize my thoughts and keep track of tasks I need to complete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bspratford7719/mini-ureka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bspratford7719/mini-ureka/issues"
+  },
+  "homepage": "https://github.com/bspratford7719/mini-ureka#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  }
+}
